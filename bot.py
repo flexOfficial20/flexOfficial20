@@ -3,7 +3,7 @@ from telegram.ext import Updater, CommandHandler, CallbackContext
 from telegram.error import TelegramError
 
 # Replace with your bot token
-BOT_TOKEN = 'YOUR_BOT_TOKEN'
+BOT_TOKEN = '7254519456:AAE3NCXWVjJd-CS-oJWgnY0AwP4sd6ftEmY'
 # Replace with your chat ID if needed; otherwise, the bot will respond to messages it receives
 
 IMAGE_URL_TGM = 'https://example.com/image_tgm.jpg'
